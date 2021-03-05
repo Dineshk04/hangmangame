@@ -1,1 +1,1 @@
-<h1> hangmangame<h1\>
+<h1 align="center"> HangMan Game</h1>
